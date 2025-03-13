@@ -93,7 +93,7 @@
                                     <div class="mb-4">
                                         <label for="custom_slug" class="form-label fw-bold d-flex justify-content-between">
                                             <span>Custom slug (optional)</span>
-                                            <span class="text-muted fw-normal fs-6">yoursite.com/</span>
+                                            <span class="text-muted fw-normal fs-6">imbdurl.com/</span>
                                         </label>
                                         <input type="text"
                                             class="form-control @error('custom_slug') is-invalid @enderror" id="custom_slug"
